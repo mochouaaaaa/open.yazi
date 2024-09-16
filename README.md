@@ -5,7 +5,7 @@ Open a file or directory using a third-party editor.
 ## Installation
 
 ```sh
-ya pack -a
+ya pack -a mochouaaaaa/open.yazi
 ```
 
 ## Usage
